@@ -2,8 +2,13 @@
 Scraping Telegram members and add it to your group/discussion or channel. It also has scraping txt file from any public group and channel—good for grabbing combolist, but leaked? sheesh.
 
 ## Installation
+• cloning the repository
 ```
-rm -rf tgscrap; git clone https://github.com/sintxcs/tgscrap; cd tgscrap; python tgscrap.sin
+rm -rf tgscrap; git clone https://github.com/sintxcs/tgscrap
+```
+• run the script
+```
+cd tgscrap; python tgscrap.sin
 ```
 ## Steps
 **Setting up your api_id & api_hash**
