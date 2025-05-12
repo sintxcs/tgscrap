@@ -4,7 +4,7 @@ Scraping Telegram members and add it to your group/discussion or channel. It als
 ## Installation
 • cloning the repository
 ```
-rm -rf tgscrap; git clone https://github.com/sintxcs/tgscrap
+cd storage; cd downloads; git clone https://github.com/sintxcs/tgscrap
 ```
 • run the script
 ```
