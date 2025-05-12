@@ -13,13 +13,13 @@ cd tgscrap; python tgscrap.sin
 ```
 ## Steps
 **Setting up your api_id & api_hash**
-<br>First, you need to log in my.telegram.org/app (preferable to use extra account not your main account)
+<br>First, you need to log in to [my.telegram.org/app](https://my.telegram.org/apps) (preferable to use extra account not your main account)
 
 **Step 2**
 <br>Copy your api_id & api_hash
 
 **Step 3**
-<br>Run the script file ```bash python tgscrap.sin``` — input 1 and details you grab and ready to go!
+<br>Run the script file ```python tgscrap.sin``` — input 1 and details you grab and ready to go!
 
 ## Modified Version has:
 <br>- Applicable timeout (60minutes) if getting flood error.
