@@ -1,3 +1,4 @@
+![](https://i.imgur.com/Q9orAvh.jpeg)
 # TELEGRAM SCRAPPER
 Scraping Telegram members and add it to your group/discussion or channel. It also has scraping txt file from any public group and channel—good for grabbing combolist, but leaked? sheesh.
 
